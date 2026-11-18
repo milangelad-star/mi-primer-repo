@@ -1,0 +1,26 @@
+=======================================================
+ LA LIGA DEL DATO | OPERACION CIUDAD METRICA
+=======================================================
+
+Doctor Ruido ha ocultado una ruta importante.
+Tu primera herramienta es Git Bash. NO necesitas programar.
+
+ORDEN 1
+  pwd
+  ls -la
+  cd sector_01
+  ls -la
+
+Alguien ha escondido una pista en una carpeta que parece vacia.
+En Bash, los archivos que empiezan por un punto se ocultan con `ls`.
+
+Cuando la encuentres, COPIA su contenido a:
+  evidencias/01_bash.txt
+
+Regresa a la raiz del juego y ejecuta:
+  bash desbloquear.sh 1
+
+Lee la mision completa en:
+  salas/01-bash/INSTRUCCIONES.md
+
+REGLA: el equipo debe ser capaz de explicar lo que ha hecho.

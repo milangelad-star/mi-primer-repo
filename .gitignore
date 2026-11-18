@@ -1,0 +1,17 @@
+# Archivos locales de trabajo: nunca subir evidencias o datos personales.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.vscode/settings.json
+.env
+.env.*
+!.env.example
+mi-primer-repo/
+.roomscape/
+evidencias/*
+!evidencias/.gitkeep
+.DS_Store
+Thumbs.db
